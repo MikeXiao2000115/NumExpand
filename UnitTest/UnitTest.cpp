@@ -21,6 +21,8 @@ Int rand(unsigned a, unsigned b) {
 	return out;
 }
 
+
+
 namespace UnitTest
 {
 	TEST_CLASS(Inverse_Code)
